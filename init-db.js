@@ -5,7 +5,7 @@ const Products = require('./models/Products');
 
 async function main() {
     // Ask the user if they are sure 
-    const carryOn = await QuestionYesNO('Are you sure, really sure, extremly sure that you want to delete all content from the database? [yes] [no] ')
+    const carryOn = await QuestionYesNO('Are you sure, really sure, extremly sure that you want to delete all content from the database? [no] ')
     if (!carryOn) {
       process.exit();
     }
