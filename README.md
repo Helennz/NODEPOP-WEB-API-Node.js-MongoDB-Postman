@@ -47,7 +47,7 @@ You can see all the products of the api by:
 - http://localhost:3000/api/products 
 
 Example: 
-![image](https://user-images.githubusercontent.com/112883658/211195967-94c2d642-e2c4-4350-b6dd-e8ed4db6299e.png)
+- ![image](https://user-images.githubusercontent.com/112883658/211195967-94c2d642-e2c4-4350-b6dd-e8ed4db6299e.png)
 
 ## [GET] Using fields, filters and paginations 
 
