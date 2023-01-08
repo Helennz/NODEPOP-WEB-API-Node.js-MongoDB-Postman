@@ -14,7 +14,7 @@ You can also visit a site with ads in the nodepop database after launching the a
 * Nodemon, Cross-env, Mongoose, ejs. 
 
 
-### INSTALLING
+## INSTALLING
 
 ### Executing program 
 ### Initialization of the dependencies
@@ -63,9 +63,9 @@ Example:
 ### Example 4. Getting the picture 
 - http://localhost:3000/images/cluedo.jpg
 
-### Example 5. Sorted by price, forSale and tag 
+### Example 5. Sorted by price, sale and tag 
 - http://localhost:3000/api/products?tag=lifestyle&forSale=true&price=10-500&start=0&limit=2&sort=price
-- 
+
 ### Example 6. Filtered by name 
 - http://localhost:3000/api/products?name=cluedo
 
