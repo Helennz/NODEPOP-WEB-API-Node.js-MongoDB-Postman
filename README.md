@@ -38,5 +38,22 @@ npm start
 ```
 npm run dev
 ```
+# API Methods (NodePop)
+## Methods
+You can find the following methods and filters. The **/products** endpoint in our API allows us to fields, filter and paginate all products registered in the MongoDB database of our `Nodepop` application.
+
+## [GET] Products List
+You can see all the products of the api by: 
+- http://localhost:3000/api/products 
+
+Example: 
+![image](https://user-images.githubusercontent.com/112883658/211195967-94c2d642-e2c4-4350-b6dd-e8ed4db6299e.png)
+
+## [GET] Using fields, filters and paginations 
+
+### Example 1. Using tags 
+- http://localhost:3000/api/products?tags=gaming&lifestyle
+![image](https://user-images.githubusercontent.com/112883658/211196116-3bfb9933-86a3-4885-9425-e3f92f2e886a.png)
+
 
 
